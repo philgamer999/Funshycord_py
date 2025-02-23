@@ -1,0 +1,39 @@
+{
+    "WINDOW": {
+        "bg": "#0f0f0f",
+        "fg": "#646464",
+        "bd": 2,
+        "relief": "solid"
+    },
+    "BUTTON": {
+        "fg": "#646464",
+        "bg": "#141414",
+        "bd": 2,
+        "relief": "solid"
+    },
+    "LABEL": {
+        "fg": "#646464",
+        "bg": "#0f0f0f",
+        "bd": 2,
+        "relief": "solid"
+    },
+    "TEXT": {
+        "fg": "#646464",
+        "bg": "#141414",
+        "bd": 2,
+        "relief": "solid"
+    },
+    "SCROLLED_TEXT": {
+        "state": "disabled",
+        "fg": "#646464",
+        "bg": "#141414",
+        "bd": 2,
+        "relief": "solid"
+    },
+    "ENTRY": {
+        "fg": "#646464",
+        "bg": "#141414",
+        "bd": 2,
+        "relief": "solid"
+    }
+}
